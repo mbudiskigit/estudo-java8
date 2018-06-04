@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 
-public class Main {
+public class DefaultMethods1 {
 
 	public static void main(String... args) {
 
